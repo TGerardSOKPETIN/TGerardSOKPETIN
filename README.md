@@ -10,7 +10,7 @@
 
 - 🌐 All of my projects are available at [tgerardsokpetin.github.io](https://tgerardsokpetin.github.io)
 
-- 📫 How to reach me: **ton.email@exemple.com**
+- 📫 How to reach me: **gerard.sokpetin@imsp-uac.org**
 
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/gerard-sokpetin)
 
