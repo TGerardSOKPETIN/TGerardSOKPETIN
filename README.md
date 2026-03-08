@@ -1,34 +1,38 @@
-## Hi, I'm Gérard SOKPETIN
+<h1 align="center">Hi 👋, I'm Gérard SOKPETIN</h1>
 
-**Actuarial Analyst | Data Scientist | Risk Modelling | Insurance & Finance**
+<hr>
 
-I am passionate about actuarial science, data analytics, and machine learning applied to insurance, finance, and risk management.  
-My work focuses on transforming complex data into robust models and decision-support tools.
+<p align="center">
+  Actuarial Analyst passionate about Data Science, Risk Modelling, Insurance and Finance
+</p>
 
-### About me
-- Master's graduate in Statistics & Probability and in Banking, Finance, Insurance
-- Experience in actuarial analysis, statistical modelling, and risk segmentation
-- Interested in mortality modelling, solvency, pricing, predictive analytics, and data-driven decision-making
-- Comfortable working with large datasets and analytical tools for business and risk insights
+<br>
 
-### Tools & Technologies
-`Python` `SAS` `R` `SQL` `Power BI` `Excel` `Git` `Dataiku`
+- 🌐 All of my projects are available at [tgerardsokpetin.github.io](https://tgerardsokpetin.github.io)
 
-### Areas of interest
-- Actuarial Science
-- Data Science
-- Risk Modelling
-- Insurance Analytics
-- Financial Modelling
-- Machine Learning
+- 📫 How to reach me: **ton.email@exemple.com**
 
-### Selected Projects
-- Portfolio website: [My Portfolio](https://tgerardsokpetin.github.io)
-- GitHub projects: actuarial, machine learning, and data analysis repositories
-- Decision-support and predictive modelling projects in insurance and finance
+- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/gerard-sokpetin)
 
-### Contact
-- LinkedIn: [Gérard SOKPETIN](https://www.linkedin.com)
-- Portfolio: [tgerardsokpetin.github.io](https://tgerardsokpetin.github.io)
+<br>
 
-Thanks for visiting my profile.
+<h3 align="left">Connect with me:</h3>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/gerard-sokpetin" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,r,mysql,postgresql,git,github,vscode,tensorflow" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/SAS-1E4C9A?style=for-the-badge&logo=sas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dataiku-00B8D9?style=for-the-badge&logo=dataiku&logoColor=white" />
+</p>
