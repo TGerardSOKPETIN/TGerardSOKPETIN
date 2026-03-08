@@ -1,16 +1,34 @@
-### Hi there 👋, I’m T. Gérard SOKPETIN
+## Hi, I'm Gérard SOKPETIN
 
-- 👀 I’m interested in **data science**, **machine learning**, and **AI applications in finance**.
-- 🌱 I’m currently pursuing a Master’s degree in Monnaie Banque Finance Assurance with a focus on Risk Analysis and Decision Mathematics at Sorbonne Paris. My studies include **Solvabilité 2**, **dynamic optimization**, and **Monte Carlo simulations**.
-- 💼 I have professional experience in **statistical modeling**, **data preprocessing**, and **risk analysis**. I’m proficient in **Python**, **R**, **VBA**, and **Stata** for statistical and econometric analysis.
-- 💞️ I’m looking to collaborate on **data-driven projects** that leverage **machine learning** and **statistical analysis** to solve real-world problems, especially in finance and risk management.
-- 📫 How to reach me: [gerard.sokpetin@imsp-uac.org](mailto:gerard.sokpetin@imsp-uac.org) or [LinkedIn](https://www.linkedin.com/in/gérard-sokpetin)
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I’m a big fan of reading, and my latest favorite is *The Godfather* by Mario Puzo.
+**Actuarial Analyst | Data Scientist | Risk Modelling | Insurance & Finance**
 
-Thanks for visiting my profile! Let’s connect and work on innovative projects together. 🚀
+I am passionate about actuarial science, data analytics, and machine learning applied to insurance, finance, and risk management.  
+My work focuses on transforming complex data into robust models and decision-support tools.
 
-<!---
-TGerardSOKPETIN/TGerardSOKPETIN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### About me
+- Master's graduate in Statistics & Probability and in Banking, Finance, Insurance
+- Experience in actuarial analysis, statistical modelling, and risk segmentation
+- Interested in mortality modelling, solvency, pricing, predictive analytics, and data-driven decision-making
+- Comfortable working with large datasets and analytical tools for business and risk insights
+
+### Tools & Technologies
+`Python` `SAS` `R` `SQL` `Power BI` `Excel` `Git` `Dataiku`
+
+### Areas of interest
+- Actuarial Science
+- Data Science
+- Risk Modelling
+- Insurance Analytics
+- Financial Modelling
+- Machine Learning
+
+### Selected Projects
+- Portfolio website: [My Portfolio](https://tgerardsokpetin.github.io)
+- GitHub projects: actuarial, machine learning, and data analysis repositories
+- Decision-support and predictive modelling projects in insurance and finance
+
+### Contact
+- LinkedIn: [Gérard SOKPETIN](https://www.linkedin.com)
+- Portfolio: [tgerardsokpetin.github.io](https://tgerardsokpetin.github.io)
+
+Thanks for visiting my profile.
