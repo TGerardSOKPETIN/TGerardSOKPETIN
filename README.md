@@ -34,7 +34,7 @@ Actuarial Analyst passionate about Data Science, Risk Modelling, Insurance and F
 
     </td>
     <td width="42%" align="center">
-      <img src="GIF_URL_A_REMPLACER" alt="workspace animation" width="320" />
+      <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="workspace animation" width="320" />
     </td>
   </tr>
 </table>
